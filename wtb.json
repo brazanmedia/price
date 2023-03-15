@@ -1,0 +1,92 @@
+{
+
+  "produk": {
+
+    "BEP20": [
+
+      "BSC", "USDT", "BUSD", "JMPT"
+
+    ],
+
+    "ERC20": [
+
+      "ETH", "USDT", "LM", "BLUR"
+
+    ],
+
+    "TRC20": [
+
+      "TRX", "USDT", "SUN"
+
+    ],
+
+    "POLYGON": [
+
+      "MATIC", "USDT", "CD", "RISE", "CNW", "BOLT", "WINGS"
+
+    ],
+
+    "ARBITRUM": [
+
+      "ETH", "USDT", "CRYPTO", "ARBK", "GDX"
+
+    ],
+
+    "SOLANA": [
+
+      "SOL", "USDT", "USDC", "PIP"
+
+    ],
+
+    "KLAY": [
+
+      "KLAY", "TRCL", "BORA", "STAT", "NOX"
+
+    ],
+
+    "FUSE": [
+
+      "FUSE", "BUSD", "G$"
+
+    ],
+
+    "HECO": [
+
+      "HT", "MX"
+
+    ],
+
+    "MISES": [
+
+      "MIS"
+
+    ],
+
+    "CRONOS": [
+
+      "CRO", "WCRO"
+
+    ],
+
+    "HAVAH": [
+
+      "HVH"
+
+    ]
+
+  },
+
+  "price": {
+
+    "HAVAH": 500,
+
+    "CD": 40000,
+
+    "ARBK": 500,
+
+    "MISES": 1300
+
+  }
+
+}
+
